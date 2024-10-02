@@ -55,3 +55,7 @@ int main() {
 | LinkedIn  | [Ссылка](test.linked.in) | 3 часа    |
 | WhatsApp  | [Ссылка](whats.app/number) | 30 минут  |
 | Telegram  | [Ссылка](tg.me/test)     | 5 минут   |
+
+## username.sh
+
+Скрипт `username.sh` выводит мое имя и фамилию в формате `Имя Фамилия` на латинице.
